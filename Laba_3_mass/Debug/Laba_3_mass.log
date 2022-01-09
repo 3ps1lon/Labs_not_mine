@@ -1,0 +1,5 @@
+﻿  Task_3.cpp
+C:\Users\famal\source\repos\Laba_3_mass\Task_3.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\famal\source\repos\Laba_3_mass\Task_3.cpp(27,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\famal\source\repos\Laba_3_mass\Task_3.cpp(66,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Laba_3_mass.vcxproj -> C:\Users\famal\source\repos\Laba_3_mass\Debug\Laba_3_mass.exe
